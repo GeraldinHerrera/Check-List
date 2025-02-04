@@ -1,0 +1,24 @@
+
+.containerCounter{
+  margin:   26px 10px 15px 10px;
+  backdrop-filter: blur(12px);
+  filter: brightness(1.05) saturate(1.2) contrast(1.1);
+  opacity: 1;
+  height: 10%;
+  display: flex;
+  width: 500px;
+  justify-content: center;
+
+}
+
+.TodoCounter {
+    font-size: 20px;
+    text-align: center;
+
+    font-weight: normal;
+
+  }
+  
+  .TodoCounter span {
+    font-weight: bold;
+  }
